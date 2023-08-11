@@ -25,14 +25,13 @@ import "./styles.css";
  */
 const siteProps = {
   name: "AMJAD AZIZ",
-  title: "Alpha MLSA, Kaggel Contributor, Data Scientist, Aspiring AI scientist",
+  title: "Alpha MLSA, Kaggel Contributor and Aspiring AI scientist always looking for improvements and innovations.",
   email: "amjadaziz690@yahoo.com",
   gitHub: "AmjadAziz98",
-  instagram: "microsoft",
+  instagram: "",
   linkedIn: "amjad-aziz-19713822b/",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "",
+  youTube: "channel/UCpj3WCDkgxPcx3V62coq5dw",
 };
 
 const primaryColor = "#4E567E";

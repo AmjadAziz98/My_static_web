@@ -24,19 +24,26 @@ const imageAltText = "White abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I'm an AI student studying at Sindh Madressatul Islam University. I love solving problems in creative ways, it makes me test my thinking paradigms. I have expertise in...";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Data Science",
+  "Machine Learning",
+  "Deep Learning",
+  "Big Data Analytics",
+  "NLP (Natural Language Processing)",
+  "Computer Vision",
+  "SQL Databases",
+  "Statistical Modelling",
+  "Python Programming",
+  "Communication",
+  "Leadership",
+  "Critical Thinking",
+  "Problem Solving",
 ];
 
 /**
@@ -45,7 +52,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  'My life Philosophy: "The Greatest lesson I have learned in life is that I still have a lot to learn."';
 
 const About = () => {
   return (
@@ -53,10 +60,10 @@ const About = () => {
       <img className="background" src={image} alt={imageAltText} />
       <div
         style={{
-          backgroundColor: "white",
+          backgroundColor: "light-gray",
           width: "50%",
-          padding: "4rem",
-          margin: "3rem auto",
+          padding: "8.5rem",
+          margin: "4.5rem auto",
           textAlign: "center",
         }}
       >
