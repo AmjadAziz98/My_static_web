@@ -31,10 +31,10 @@ const imageAltText = "Project image";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Books Recommendation System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is a book recommendation system based on popularity. It recommends books based on the number of ratings a book has received.",
+    url: "https://github.com/AmjadAziz98/Book-Recommendation-System_Based_on_popularity",
   },
   {
     title: "Web Development for Beginners",
