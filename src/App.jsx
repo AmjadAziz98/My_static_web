@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "AMJAD AZIZ",
-  title: "Alpha MLSA, Kaggle Contributor and Aspiring AI scientist always looking for improvements and innovations.",
+  title: "Beta MLSA, Kaggle Contributor and Aspiring AI scientist always looking for improvements and innovations.",
   email: "amjadaziz690@yahoo.com",
   gitHub: "AmjadAziz98",
   instagram: "",
